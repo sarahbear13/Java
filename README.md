@@ -1,1 +1,2 @@
 # Java
+Exercises and projects.
